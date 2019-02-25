@@ -8,3 +8,4 @@ end
 get '/greet' do 
   erb :greet
 end
+end
